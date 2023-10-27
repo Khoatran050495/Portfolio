@@ -34,7 +34,7 @@ export const ProjectList = [
     img: CowboyNodeJS,
     //max 6 tech stack
     tech: ["React", "Node.js", "Express.js", "MySQL", "Paypal"],
-    source: "https://github.com/Khoatran050495/project_3",
+    source: "https://github.com/trandangkhoa5495/PROJECT03_USER",
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ export const ProjectList = [
     img: OldCar,
     //max 6 tech stack
     tech: ["Javascript", "CSS", "Bootstrap"],
-    source: "https://github.com/Khoatran050495/project_2",
+    source: "https://github.com/trandangkhoa5495/Project-2",
     demo: null,
   },
 ];
